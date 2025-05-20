@@ -8,10 +8,6 @@ import os
 from dotenv import load_dotenv
 load_dotenv()
 
-
-
-
-# Initialize the main window
 root = Tk()
 root.title("Weather App")
 root.geometry("750x500")
