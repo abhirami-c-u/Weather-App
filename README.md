@@ -1,10 +1,10 @@
-# 🌦️ WeatherNow - Weather Forecast App
+# WeatherNow - Weather Forecast App
 
 WeatherNow is a functional Python desktop application built using **Tkinter**, which displays the current weather conditions for any city you enter. It fetches data from the [OpenWeatherMap API](https://openweathermap.org/api) and presents it in a clean, interactive interface.
 
 ---
 
-## 📌 Features
+##  Features
 
 - Enter any city name and get:
   - Temperature in Celsius
